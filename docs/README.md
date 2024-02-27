@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Analyst Alves, an aspiring professional who delves into the areas of Cybersecurity, Java Programming and Cloud Computing.
+I'm Eric Alves, a student in the areas of Cybersecurity, Java Programming and Cloud Computing.
 
 🌱 I am currently immersed in the exciting journey of learning and exploring the complexities of these areas.
 
